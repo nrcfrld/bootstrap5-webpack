@@ -46,6 +46,10 @@ main#content {
   color: $gray-200;
 }
 
+.focus-none:focus {
+  box-shadow: none;
+}
+
 .text-with-underline {
   display: inline-block;
   position: relative;
